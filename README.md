@@ -47,8 +47,8 @@ Acceptance Criteria:
 - Fix an edge case bug: if a recommended item has the same name as another recommended item (book vs. movie) then the My Favorites list can differentiate.
 - Incorporate types into the search query.
 - Filter the recommendations by type.
-- Reordering favorites.
-- Look at different recommendation APIs and compare them.
+- Include the ability to reorder favorites.
+- Look at different recommendation APIs and compare them, possibly use a different API with the app.
 
 ### If you had the opportunity to go back in time and meet a historical figure, who would it be and why?
 
