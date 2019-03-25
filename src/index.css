@@ -117,14 +117,3 @@ input[type="submit"] {
   color: darkslateblue;
   background: white;
 }
-
-/*Remove me*/
-
-.starRatings{
-  border: 1px solid teal;
-}
-
-i.far.fa-star {
-  border: 1px solid gray;
-  font-family: "Font Awesome 5 Free";
-}
