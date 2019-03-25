@@ -8,11 +8,11 @@ Assumptions:
 - You have knowledge of the terminal and you have node.js installed on your computer (you can download it here: https://nodejs.org/en/download/). There is a copy of the code being hosted at GitHub here: https://lgaudinier.github.io/react/ if your local does not cooperate.
 
 Steps:
-1. Navigate to the GitHub repository (https://github.com/autodesk-wpe-coding-challenge) and switch to the transaction-ui-lindsay branch
-2. Clone the project onto your computer (You may also download the ZIP)
-3. cd into the project (you should ls and see README.md, package.json, yarn.lock, build, public, package-lock.json, and src)
-4. Run npm install in your terminal
-5. Run npm start in your terminal
+1. Navigate to the GitHub repository (https://github.com/autodesk-wpe-coding-challenge) and switch to the transaction-ui-lindsay branch.
+2. Clone the project onto your computer (You may also download the ZIP).
+3. cd into the project (you should ls and see README.md, package.json, yarn.lock, build, public, package-lock.json, and src).
+4. Run npm install in your terminal.
+5. Run npm start in your terminal.
 6. Your terminal should open up the application in a browser automatically. If this does not happen, your terminal also gives you two links (Local, On Your Network) to enter in your browser to use the app. 
 
 ### Instructions - How to Use the App
