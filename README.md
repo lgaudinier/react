@@ -5,7 +5,7 @@ https://lgaudinier.github.io/react/
 ### Instructions - How to Get The App Up and Running
 
 Assumptions:
-- You have knowledge of the terminal and you have node.js installed on your computer (you can install it here: https://nodejs.org/en/download/). There is a copy of the code being hosted at GitHub here: https://lgaudinier.github.io/react/ if your local does not cooperate.
+- You have knowledge of the terminal and you have node.js installed on your computer (you can download it here: https://nodejs.org/en/download/). There is a copy of the code being hosted at GitHub here: https://lgaudinier.github.io/react/ if your local does not cooperate.
 
 Steps:
 1. Navigate to the GitHub repository (https://github.com/autodesk-wpe-coding-challenge) and switch to the transaction-ui-lindsay branch
