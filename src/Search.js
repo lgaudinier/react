@@ -1,4 +1,3 @@
-
 import React, { Component } from "react";
 
 class Search extends Component {
@@ -18,13 +17,13 @@ class Search extends Component {
               <input type="text" value={this.props.searchValue} onChange={this.props.handleChange} />
             </label>
             <input type="submit" value="Submit" />
-            <div className="helptext">Enter a search term for a recommendations of related of movies, books, games, podcasts, music, tv shows, and authors </div>
+            <div className="helptext">Enter search term(s) for a recommendations of related of movies, books, games, podcasts, music, tv shows, and authors. </div>
           </div>
         </form>
       </div>
 
-      )
-    }
-  };
+    )
+  }
+};
 
 export default Search;

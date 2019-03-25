@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import Search from './Search';
-
-import './index.css';
 import Favorites from "./Favorites";
 import Recommendations from "./Recommendations";
+
+import './index.css';
 
 class RecommendationApp extends React.Component{
 
@@ -17,10 +17,10 @@ class RecommendationApp extends React.Component{
       favoritesList: []
     };
 
-   this.handleChange = this.handleChange.bind(this);
-   this.handleSubmit = this.handleSubmit.bind(this);
-   this.handleClick = this.handleClick.bind(this);
-   this.removeFavorite = this.removeFavorite.bind(this);
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+    this.handleClick = this.handleClick.bind(this);
+    this.removeFavorite = this.removeFavorite.bind(this);
   }
 
   handleChange(event) {
@@ -97,9 +97,6 @@ class RecommendationApp extends React.Component{
 
 
   render(){
-
-    let {recommendationList} = this.state;
-    let buttonText = false;
 
     return (
       <div>
