@@ -48,7 +48,7 @@ Acceptance Criteria:
 - Incorporate types into the search query
 - Filter the recommendations by type
 
-###If you had the opportunity to go back in time and meet a historical figure, who would it be and why?
+### If you had the opportunity to go back in time and meet a historical figure, who would it be and why?
 
 If I could go back in time, I would love to meet Kurt Vonnegut. He's one of my absolute favorite authors and seems like a very interesting person to invite to a dinner party. I would love to just sit and listen to him talk.
  
