@@ -1,0 +1,113 @@
+h1, h2 {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+}
+div {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+ul {
+  width: 60%;
+  float: left;
+  margin-top: 0;
+  padding-left: 0;
+}
+
+li {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  list-style-type: none;
+  margin-bottom: 3px;
+}
+
+li h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+
+#favorites {
+  width: 38%;
+  border: 2px solid darkslateblue;
+  height: auto;
+  float: right;
+  border-radius: 10px;
+}
+
+#favorites ul {
+  width: initial;
+  padding-left: 40px;
+}
+
+#favorites li {
+  border: none;
+  list-style-type: decimal;
+  padding: 0;
+}
+
+#favorites li:hover {
+  text-decoration: line-through;
+  cursor: pointer;
+}
+
+form {
+  border: 2px solid darkslategrey;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+#submitform {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+label, input {
+  font-size: 20px;
+}
+
+input{
+  margin-left: 10px;
+}
+
+input[type="text"] {
+   width: 400px;
+ }
+
+input[type="submit"] {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.helptext {
+  font-size: 15px;
+  margin-top: 20px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.favoriteButton {
+  float: right;
+  color: white;
+  background-color: darkslateblue;
+  border: 2px solid darkslateblue;
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.favoriteButton:hover{
+  border: 2px solid darkslateblue;
+  color: darkslateblue;
+  background: white;
+}
+
+
+
