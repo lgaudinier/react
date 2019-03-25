@@ -43,6 +43,7 @@ Acceptance Criteria:
 
 ### What would you have done differently if you had additional time to complete this project?
 - Include validation on user input on search.
+- Include a throbber to show that the App is fetching the data.
 - Incorporate much more styling, including a flushed out mobile design. Leverage SASS in the project. 
 - Fix an edge case bug: if a recommended item has the same name as another recommended item (book vs. movie) then the My Favorites list can differentiate.
 - Incorporate types into the search query.
