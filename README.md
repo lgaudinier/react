@@ -16,7 +16,7 @@ Steps:
 6. Your terminal should open up the application in a browser automatically. If this does not happen, your terminal also gives you two links (Local, On Your Network) to enter in your browser to use the app. 
 
 ### Instructions - How to Use the App
-- Enter a movies, books, games, podcasts, music, tv shows, or authors into the search bar and click submit.
+- Enter a movie, book, game, podcast, music, tv show, or author into the search bar and click submit.
 - The App will return recommendations of related terms.
 - You can click on the Add to Favorites to add that item to your My Favorites list. After you have added a favorite, the button will change to let you know that you Favorited! that item. If a favorited item shows up in multiple searches, the button will retain its Favorited! text.
 - If you want to remove an item from your My Favorites list, simply click on it.
