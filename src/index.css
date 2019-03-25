@@ -85,7 +85,7 @@ input{
 }
 
 input[type="text"] {
-  width: 400px;
+  width: 50%;
 }
 
 input[type="submit"] {
@@ -116,4 +116,15 @@ input[type="submit"] {
   border: 2px solid darkslateblue;
   color: darkslateblue;
   background: white;
+}
+
+/*Remove me*/
+
+.starRatings{
+  border: 1px solid teal;
+}
+
+i.far.fa-star {
+  border: 1px solid gray;
+  font-family: "Font Awesome 5 Free";
 }
