@@ -34,7 +34,7 @@ Acceptance Criteria:
 
 **2. Autocomplete Suggestions in Search**
 
-As a user running the application, I would like to have the search bar suggest autocompleted words based on what I am currently typing. This will help me with possible spelling issues and show me more possible search I can run
+As a user running the application, I would like to have the search bar suggest autocompleted words based on what I am currently typing. This will help me with possible spelling issues and show me more possible searches I can run.
 
 Acceptance Criteria:
 - When user begins typing into the search bar, a dropdown of autocompleted suggested searches is shown.
@@ -42,11 +42,11 @@ Acceptance Criteria:
 - The user can still enter and search their own text in the search bar.
 
 ### What would you have done differently if you had additional time to complete this project?
-- Include validation on user input on search
+- Include validation on user input on search.
 - Incorporate much more styling, including a flushed out mobile design. Leverage SASS in the project. 
-- Fix an edge case bug: if a recommended item has the same name as another recommended item (book vs. movie) then the My Favorites list can differentiate
-- Incorporate types into the search query
-- Filter the recommendations by type
+- Fix an edge case bug: if a recommended item has the same name as another recommended item (book vs. movie) then the My Favorites list can differentiate.
+- Incorporate types into the search query.
+- Filter the recommendations by type.
 
 ### If you had the opportunity to go back in time and meet a historical figure, who would it be and why?
 
